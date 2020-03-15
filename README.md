@@ -13,17 +13,23 @@
 * 下載[MaskInfo_x.x.rmskin](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.9.rmskin), 使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝.
 
 ### 設定
+指定醫事機構代碼(NhiCode):
+* 在 Settings.txt 內設定. (在 MaskInfo\@RESOURCES\Settings 目錄內)
+* 也可以在面板上按右鍵 -> 自訂面板動作 -> 手動設定醫事機構代碼及其他參數 (會打開 Settings.txt)
+* 醫事機構代碼可參考: [健保特約機構口罩剩餘數量明細清單](http://data.nhi.gov.tw/Datasets/Download.ashx?rid=A21030000I-D50001-001&l=https://data.nhi.gov.tw/resource/mask/maskdata.csv) 醫事機構代碼欄位. 例如: 2101150012 (士林健康服務中心)
+
 用滑鼠右鍵單擊不同區域可以變更設定: (輸入代碼後請按Enter確定變更)
 * 代碼 XXXXXXXXXX: 設定要顯示口罩剩餘數量資訊的 醫事機構代碼
 * 常用機構1/常用機構2/常用機構3: 設定常用的 醫事機構代碼 (3組可供滑鼠左鍵雙擊切換使用)
 
 ### 使用
 用滑鼠左鍵雙擊不同區域可以帶出不同資訊:
-* 醫事機構名稱: 根據該醫事機構開啟 網頁
 * 醫事機構地址: 根據該地址開啟Google Maps網頁
 * 常用機構1/常用機構2/常用機構3: 切換 醫事機構代碼 為設定的常用代碼, 並更新面板資訊
 
-* 說明: 開啟[使用說明網頁]
+### 教學
+* [安裝Rainmeter及MaskInfo面板](https://123)
+* [操作使用MaskInfo面板](https://123)
 
 ----
 ## 資料來源與授權
