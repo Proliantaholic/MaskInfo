@@ -27,7 +27,7 @@
 * 醫事機構地址: 根據該地址開啟Google Maps網頁
 * 常用機構1/常用機構2/常用機構3: 切換 醫事機構代碼 為設定的常用代碼, 並更新面板資訊
 
-### 教學
+### 教學影片
 * [安裝Rainmeter及MaskInfo面板](https://i.imgur.com/oQr9AR5.gifv)
 
 
