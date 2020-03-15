@@ -38,5 +38,5 @@
 
 ----
 ## Changelog
-### Version 0.9 / 2020-03-XX
+### Version 0.9 / 2020-03-15
 * First release
