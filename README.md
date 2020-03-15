@@ -29,6 +29,7 @@
 
 ### 教學影片
 * [安裝Rainmeter及MaskInfo面板](https://i.imgur.com/oQr9AR5.gifv)
+* [![安裝Rainmeter及MaskInfo面板](https://i.imgur.com/oQr9AR5m.jpg)](https://i.imgur.com/oQr9AR5.gifv)
 
 
 ----
