@@ -10,7 +10,7 @@
 ## 使用說明
 
 ### 安裝
-* 下載[MaskInfo_x.x.rmskin](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.9.rmskin), 使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝.
+* 下載[MaskInfo_x.x.rmskin](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.91.rmskin), 使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝.
 
 ### 設定
 指定醫事機構代碼(NhiCode):
@@ -25,7 +25,7 @@
 ### 使用
 用滑鼠左鍵雙擊不同區域可以帶出不同資訊:
 * 醫事機構名稱: 開啟該醫事機構在 [藥局口罩採購地圖 (江明宗先生製作)](https://kiang.github.io/pharmacies) 的網頁
-* 醫事機構地址: 根據該地址開啟Google Maps網頁
+* 醫事機構地址: 開啟該地址的GoogleGoogle Maps網頁
 * 常用機構1/常用機構2/常用機構3: 切換 醫事機構代碼 為設定的常用代碼, 並更新面板資訊
 
 ### 教學影片
