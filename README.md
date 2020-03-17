@@ -39,10 +39,8 @@
 
 ----
 ## Changelog
-### Version 0.92 / 2020-03-17
+### Version 0.92 / 2020-03-18
 * 新增 根據**口罩剩餘數**顯示不同文字底色
-    - <span style="background-color:blue;">成人口罩剩餘數</span>
-
 
 ### Version 0.91 / 2020-03-16
 * 新增 根據醫事機構名稱開啟 藥局口罩採購地圖 (https://kiang.github.io/pharmacies 江明宗先生製作) 網頁
