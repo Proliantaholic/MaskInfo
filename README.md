@@ -41,7 +41,7 @@
 ## Changelog
 ### Version 0.92 / 2020-03-17
 * 新增 根據**口罩剩餘數**顯示不同文字底色
-    - <span style="color:white; background-color:rgb(249,0,12);">成人口罩剩餘數</span>
+    - <span style="background-color:rgb(249,0,12);">成人口罩剩餘數</span>
 
 
 ### Version 0.91 / 2020-03-16
