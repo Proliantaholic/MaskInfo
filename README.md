@@ -4,7 +4,7 @@
 
 #### 本說明亦發表在: [proliantaholic.blogspot.com](https://proliantaholic.blogspot.com/2020/03/MaskInfo.html)
 
-![proliantaholic.blogspot.com](https://tinyurl.com/vjwufvx)
+![proliantaholic.blogspot.com](https://tinyurl.com/qr42v3y)
 
 ----
 ## 使用說明
