@@ -42,14 +42,8 @@
 ### Version 0.92 / 2020-03-17
 * 新增 根據**口罩剩餘數**顯示不同文字底色
     - <span style="color: white; background-color: rgb(249,0,12);">成人口罩剩餘數</span><span> <= 20</span>
-    - <span style="color:white; background-color:rgb(249,0,12);">成人口罩剩餘數</span><span> <= 20</span>
-    - <span style="color: white; background-color: rgb(248,129,177);">成人口罩剩餘數</span><span> > 20</span>
-    - <span style="color: white; background-color: rgb(252,221,94);">成人口罩剩餘數</span><span> > 40</span>
-    - <span style="color: white; background-color: rgb(83,199,118);">成人口罩剩餘數</span><span> > 100</span>
-    - <span style="color: white; background-color: rgb(249,0,12);">兒童口罩剩餘數</span><span> <= 5</span>
-    - <span style="color: white; background-color: rgb(248,129,177);">兒童口罩剩餘數</span><span> > 5</span>
-    - <span style="color: white; background-color: rgb(252,221,94);">兒童口罩剩餘數</span><span> > 10</span>
-    - <span style="color: white; background-color: rgb(83,199,118);">兒童口罩剩餘數</span><span> > 25</span>
+    - <p><span style="color:white; background-color:rgb(249,0,12);">成人口罩剩餘數</span><span> <= 20</span></p>
+
 
 ### Version 0.91 / 2020-03-16
 * 新增 根據醫事機構名稱開啟 藥局口罩採購地圖 (https://kiang.github.io/pharmacies 江明宗先生製作) 網頁
