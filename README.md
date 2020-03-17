@@ -42,7 +42,7 @@
 ### Version 0.92 / 2020-03-17
 * 新增 根據**口罩剩餘數**顯示不同文字底色
     - <span style="color: white; background-color: rgb(249,0,12);">成人口罩剩餘數</span><span> <= 20</span>
-    - <span style="color:white; background:rgb(249,0,12)">兒童口罩剩餘數</span>
+    - <span style="color:white; background-color:rgb(249,0,12);">成人口罩剩餘數</span><span> <= 20</span>
     - <span style="color: white; background-color: rgb(248,129,177);">成人口罩剩餘數</span><span> > 20</span>
     - <span style="color: white; background-color: rgb(252,221,94);">成人口罩剩餘數</span><span> > 40</span>
     - <span style="color: white; background-color: rgb(83,199,118);">成人口罩剩餘數</span><span> > 100</span>
