@@ -10,7 +10,7 @@
 ## 使用說明
 
 ### 安裝
-* 下載[MaskInfo_x.x.rmskin](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.92.rmskin), 使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝.
+* 下載[MaskInfo_x.x.rmskin](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.93.rmskin), 使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝.
 
 ### 設定
 指定醫事機構代碼(NhiCode):
@@ -39,6 +39,9 @@
 
 ----
 ## Changelog
+### Version 0.93 / 2020-03-20
+* 新增 根據**成人口罩剩餘數**顯示**常用醫事機構**不同文字底色
+
 ### Version 0.92 / 2020-03-18
 * 新增 根據**口罩剩餘數**顯示不同文字底色
 
