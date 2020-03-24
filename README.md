@@ -11,7 +11,7 @@
 ## 使用說明
 
 ### 安裝
-* 下載[MaskInfo_x.x.rmskin](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.93.rmskin), 使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝.
+* 下載[MaskInfo_x.x.rmskin](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.94.rmskin), 使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝.
 
 ### 設定
 指定醫事機構代碼(NhiCode):
