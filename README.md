@@ -11,7 +11,7 @@
 ## 使用說明
 
 ### 安裝
-* 下載 [![MaskInfo](https://img.shields.io/badge/MaskInfo.rmskin-v0.94-brightgreen.svg)](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.94.rmskin) 然後使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝.
+* 下載 [![MaskInfo](https://img.shields.io/badge/MaskInfo.rmskin-v0.94-brightgreen.svg)](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.94.rmskin) 然後使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝
 
 
 ### 設定
