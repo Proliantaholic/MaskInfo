@@ -1,4 +1,4 @@
-## MaskInfo 健保特約機構口罩剩餘數量資訊 [![MaskInfo](https://img.shields.io/badge/release-v0.94-brightgreen.svg)](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.94.rmskin)
+## MaskInfo 健保特約機構口罩剩餘數量資訊 [![MaskInfo](https://img.shields.io/badge/release-v0.94-brightgreen.svg)](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.94.rmskin) [![MaskInfo](https://img.shields.io/github/license/Proliantaholic/MaskInfo?color=blue)](https://raw.githubusercontent.com/Proliantaholic/MaskInfo/master/LICENSE)
 ## Rainmeter Skin / Rainmeter 面板
 > 顯示健保特約機構口罩剩餘數量資訊
 
