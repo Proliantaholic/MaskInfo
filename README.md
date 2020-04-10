@@ -1,4 +1,4 @@
-## MaskInfo 健保特約機構口罩剩餘數量資訊 [![MaskInfo](https://img.shields.io/badge/release-v0.94-brightgreen.svg)](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.94.rmskin) [![MaskInfo](https://img.shields.io/github/license/Proliantaholic/MaskInfo?color=blue)](https://raw.githubusercontent.com/Proliantaholic/MaskInfo/master/LICENSE)
+## MaskInfo 健保特約機構口罩剩餘數量資訊 [![MaskInfo](https://img.shields.io/badge/release-v0.95-brightgreen.svg)](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.95.rmskin) [![MaskInfo](https://img.shields.io/github/license/Proliantaholic/MaskInfo?color=blue)](https://raw.githubusercontent.com/Proliantaholic/MaskInfo/master/LICENSE)
 ## Rainmeter Skin / Rainmeter 面板
 > 顯示健保特約機構口罩剩餘數量資訊
 
@@ -11,7 +11,7 @@
 ## 使用說明
 
 ### 安裝
-* 下載 [![MaskInfo](https://img.shields.io/badge/MaskInfo.rmskin-v0.94-brightgreen.svg)](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.94.rmskin) 然後使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝
+* 下載 [![MaskInfo](https://img.shields.io/badge/MaskInfo.rmskin-v0.95-brightgreen.svg)](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.95.rmskin) 然後使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝
 
 
 ### 設定
@@ -34,24 +34,28 @@
 ### 教學影片
 * [安裝Rainmeter及MaskInfo面板](https://i.imgur.com/m6dAxZ6.gifv)
 
-
 ----
 ## 資料來源與授權
-* 資料來源: 衛生福利部中央健康保險署
-* 授權方式: [依政府資料開放平臺使用規範](https://data.gov.tw/license/legacy)
+* 資料來源: [衛生福利部中央健康保險署](https://data.gov.tw/license/legacy)
 
 ----
 ## Changelog
+### Version 0.95 / 2020-04-10
+* 新增 MIT授權條款
+* 新增 WebParser UserAgent設定
+* 新增 根據**成人/兒童口罩剩餘數**狀況顯示**常用醫事機構**不同文字底色: 文字前半底色為成人口罩剩餘數狀況, 文字後半底色為兒童口罩剩餘數狀況
+* 其他小調整
+
 ### Version 0.94 / 2020-03-24
 * 新增 滑鼠右鍵單擊變更設定: 資料更新頻率 (分鐘)
 * 調整 自訂面板動作 -> 資料更新頻率: 最短 每5分鐘 -> 每3分鐘
 * 修正 刪除多餘的 @Include="#@#Settings\Settings.txt"
 
 ### Version 0.93 / 2020-03-20
-* 新增 根據**成人口罩剩餘數**顯示**常用醫事機構**不同文字底色
+* 新增 根據**成人口罩剩餘數**狀況顯示**常用醫事機構**不同文字底色
 
 ### Version 0.92 / 2020-03-18
-* 新增 根據**口罩剩餘數**顯示**成人/兒童**不同文字底色
+* 新增 根據**口罩剩餘數**狀況顯示**成人/兒童**不同文字底色
 
 ### Version 0.91 / 2020-03-16
 * 新增 根據醫事機構名稱開啟 藥局口罩採購地圖 (https://kiang.github.io/pharmacies 江明宗先生製作) 網頁
