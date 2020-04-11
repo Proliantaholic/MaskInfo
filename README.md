@@ -1,4 +1,4 @@
-## MaskInfo 健保特約機構口罩剩餘數量資訊 [![MaskInfo](https://img.shields.io/badge/release-v0.95-brightgreen.svg)](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.95.rmskin) [![MaskInfo](https://img.shields.io/github/license/Proliantaholic/MaskInfo?color=blue)](https://raw.githubusercontent.com/Proliantaholic/MaskInfo/master/LICENSE)
+## MaskInfo 健保特約機構口罩剩餘數量資訊 [![MaskInfo](https://img.shields.io/badge/release-v0.96-brightgreen.svg)](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.96.rmskin) [![MaskInfo](https://img.shields.io/github/license/Proliantaholic/MaskInfo?color=blue)](https://raw.githubusercontent.com/Proliantaholic/MaskInfo/master/LICENSE)
 ## Rainmeter Skin / Rainmeter 面板
 > 顯示健保特約機構口罩剩餘數量資訊
 
@@ -11,7 +11,7 @@
 ## 使用說明
 
 ### 安裝
-* 下載 [![MaskInfo](https://img.shields.io/badge/MaskInfo.rmskin-v0.95-brightgreen.svg)](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.95.rmskin) 然後使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝
+* 下載 [![MaskInfo](https://img.shields.io/badge/MaskInfo.rmskin-v0.96-brightgreen.svg)](https://github.com/Proliantaholic/MaskInfo/raw/master/MaskInfo_0.96.rmskin) 然後使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝
 
 
 ### 設定
@@ -40,6 +40,9 @@
 
 ----
 ## Changelog
+### Version 0.96 / 2020-04-11
+* 修正 醫事機構代碼錯誤或資料來源有問題時的顯示方式
+
 ### Version 0.95 / 2020-04-10
 * 新增 MIT授權條款
 * 新增 WebParser UserAgent設定
