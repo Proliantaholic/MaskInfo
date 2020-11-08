@@ -38,7 +38,7 @@
 
 ----
 ## 資料來源與授權
-* 資料來源: [衛生福利部中央健康保險署](https://data.gov.tw/license/legacy)
+* 資料來源: [衛生福利部中央健康保險署](https://data.gov.tw/license)
 
 ----
 ## Changelog
