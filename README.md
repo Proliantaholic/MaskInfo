@@ -1,4 +1,4 @@
-## MaskInfo 健保特約機構口罩剩餘數量資訊 [![MaskInfo](https://img.shields.io/github/v/release/Proliantaholic/MaskInfo?include_prereleases&style=social)](https://github.com/Proliantaholic/MaskInfo/releases/download/v0.98/MaskInfo_0.98.rmskin) [![MaskInfo](https://img.shields.io/github/license/Proliantaholic/MaskInfo?color=blue)](https://raw.githubusercontent.com/Proliantaholic/MaskInfo/master/LICENSE)
+## MaskInfo 健保特約機構口罩剩餘數量資訊 [![MaskInfo](https://img.shields.io/github/v/release/Proliantaholic/MaskInfo?include_prereleases&style=social)](https://github.com/Proliantaholic/MaskInfo/releases/download/v0.99/MaskInfo_0.99.rmskin) [![MaskInfo](https://img.shields.io/github/license/Proliantaholic/MaskInfo?color=blue)](https://raw.githubusercontent.com/Proliantaholic/MaskInfo/master/LICENSE)
 ## Rainmeter Skin / Rainmeter 面板
 > 顯示健保特約機構口罩剩餘數量資訊
 
@@ -11,13 +11,13 @@
 ## 使用說明
 
 ### 安裝
-* 下載 [![MaskInfo](https://img.shields.io/github/v/release/Proliantaholic/MaskInfo?label=MaskInfo.rmskin&logoColor=brightgreen&style=social)](https://github.com/Proliantaholic/MaskInfo/releases/download/v0.98/MaskInfo_0.98.rmskin) 然後使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝
+* 下載 [![MaskInfo](https://img.shields.io/github/v/release/Proliantaholic/MaskInfo?label=MaskInfo.rmskin&logoColor=brightgreen&style=social)](https://github.com/Proliantaholic/MaskInfo/releases/download/v0.99/MaskInfo_0.99.rmskin) 然後使用 [Rainmeter](https://www.rainmeter.net) 的 SkinInstaller.exe 安裝
 
 ### 設定
 指定醫事機構代碼(NhiCode):
 * 在 Settings.txt 內設定. (在 MaskInfo\@RESOURCES\Settings 目錄內)
 * 也可以在面板上按右鍵 -> 自訂面板動作 -> 手動設定醫事機構代碼及其他參數 (會打開 Settings.txt)
-* 醫事機構代碼可參考: [健保特約機構口罩剩餘數量明細清單](http://data.nhi.gov.tw/Datasets/Download.ashx?rid=A21030000I-D50001-001&l=https://data.nhi.gov.tw/resource/mask/maskdata.csv) 醫事機構代碼欄位. 例如: 2101150012 (士林健康服務中心)
+* 醫事機構代碼可參考: [健保特約機構口罩剩餘數量明細清單](https://data.nhi.gov.tw/Datasets/Download.ashx?rid=A21030000I-D50001-001&l=https://data.nhi.gov.tw/resource/mask/maskdata.csv) 醫事機構代碼欄位. 例如: 2101150012 (士林健康服務中心)
 
 用滑鼠右鍵單擊不同區域可以變更設定: (輸入代碼後請按Enter確定變更)
 * 代碼 XXXXXXXXXX: 設定要顯示口罩剩餘數量資訊的 醫事機構代碼
@@ -42,6 +42,9 @@
 
 ----
 ## Changelog
+### Version 0.99 / 2020-11-24
+* 修正 健保特約機構口罩剩餘數量明細清單連結為https
+
 ### Version 0.98 / 2020-05-15
 * 調整 滑鼠指標移至常用機構文字上的顯示方式, 醫事機構名稱前面加上號碼
 * 其他小調整
